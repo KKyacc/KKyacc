@@ -1,7 +1,11 @@
-## Hi there 👋
+### 醵
+
+- 🌱 Hello, I'm KKyacc!
+- 😄 Have A Good Day!
+- About: https://kkya.cc/about
 
 <!--
-**KKyacc/KKyacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DoKyac/DoKyac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
