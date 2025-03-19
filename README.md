@@ -1,8 +1,7 @@
 ### 醵
 
-- 🌱 Hello, I'm KKyacc!
+- 🌱 Hello, I'm Kyac!
 - 😄 Have A Good Day!
-- About: https://kkya.cc/about
 
 <!--
 **DoKyac/DoKyac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
